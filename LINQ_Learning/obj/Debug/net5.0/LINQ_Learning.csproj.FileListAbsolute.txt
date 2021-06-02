@@ -1,0 +1,16 @@
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.exe
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.deps.json
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.runtimeconfig.json
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.runtimeconfig.dev.json
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.dll
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\ref\LINQ_Learning.dll
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\bin\Debug\net5.0\LINQ_Learning.pdb
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.csprojAssemblyReference.cache
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.AssemblyInfoInputs.cache
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.AssemblyInfo.cs
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.csproj.CoreCompileInputs.cache
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.dll
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\ref\LINQ_Learning.dll
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.pdb
+C:\Users\eston\Documents\GitHub\CSTesting\LINQ_Learning\obj\Debug\net5.0\LINQ_Learning.genruntimeconfig.cache
