@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+
 namespace Learning_data
 {
 	public class Product
@@ -8,6 +9,7 @@ namespace Learning_data
 
         public string name;
         public float price;
+        public float calories;
 
         public Product(string Name, float Price)
         {
@@ -41,9 +43,10 @@ namespace Learning_data
             get { return order_id; }
         }
 
-        public Customer(string Name, int age)
+        public Customer(string Name, int Age, int O_ID)
         {
-
+            name = Name;
+            age = Age;
         }
     }
 
